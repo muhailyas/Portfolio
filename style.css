@@ -1,0 +1,8 @@
+hr {
+    width: 30%;
+}
+
+li .nav-link {
+    color: black;
+    font-weight: bold;
+}
